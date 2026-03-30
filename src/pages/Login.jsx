@@ -76,7 +76,7 @@ export default function Login() {
             </div>
           </div>
 
-          <div className="auth-left-footer">Universidad de Antioquia · CodeF@ctory 2026-1</div>
+          <div className="auth-left-footer">© 2026 MiCuenta. Todos los derechos reservados</div>
         </div>
 
         {/* RIGHT */}
